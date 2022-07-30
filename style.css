@@ -1,0 +1,22 @@
+header {
+  margin-bottom: 56px;
+}
+
+.bg-img1, .bg-img2, .bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-position: center center;
+  height: 685px;
+}
+
+.bg-img1 {
+  background-image: url("./img/slide1.jpg");
+}
+
+.bg-img2 {
+  background-image: url("./img/slide2.jpg");
+}
+
+.bg-img3 {
+  background-image: url("./img/slide3.jpg");
+}
